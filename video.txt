@@ -1,1 +1,1 @@
-https://scontent.fzyl2-2.fna.fbcdn.net/hvideo-cco-hil/_nc_cat-104/_nc_sr_t-4/v/rASeeEW6omizKh6GVA7z0ayPYvE2vBhv6mzotvHgbyNt3sQ/_nc_ohc-aI-Rb6yCDS0Q7kNvwEeK4tf/live-dash/dash-abr-ibr-audio/1341896301367897.mpd?_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_Afqh9SQRvvwFxthpMxjBYY58yQ45zu04QMBTMUgK3GasWg&oe=695FE513
+https://frb-api.netlify.app/5d0fa79f-561f-4d11-9873-e8418ee717f1/480p/video.m3u8
